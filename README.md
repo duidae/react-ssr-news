@@ -1,8 +1,8 @@
-# SSR News - React
+# SSR News
 
 React Server Side Rendering demo project. This project uses [News API](https://newsapi.org/) under the hood.
 
-Demo: [Click to see DEMO](https://react-ssr-ilker.herokuapp.com/)
+Demo: https://ssr-news.df.r.appspot.com
 
 ![SSR News](https://i.imgur.com/F3AT7v0.jpg)
 
