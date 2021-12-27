@@ -44,8 +44,8 @@ const HomePage = props => {
   const head = () => {
     return (
       <Helmet key={Math.random()}>
-        <title>SSR Daily News - ilker ALTIN</title>
-        <meta property="og:title" content="SSR Daily News - ilker ALTIN" />
+        <title>SSR Daily News</title>
+        <meta property="og:title" content="SSR Daily News" />
         <meta
           name="description"
           content="Breaking news,latest articles, popular articles from most popular news websites of the world"
